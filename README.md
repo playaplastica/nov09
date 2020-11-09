@@ -81,6 +81,7 @@ Los desechos son absorbidos por la fauna marina y pueden llegar a los humanos a 
 
 
 Existe una iniciativa de parte del gobierno que todavía no ha sido aprobada de una estrategia o ["Plan de Acción para la Conservación Marina y de Islas Oceánicas".](https://biodiversidad.mma.gob.cl/pda-conservacion-marina-islas-oceanicas/)
+
 ## Boceto de la infografía
          
 ![alt text](https://i.imgur.com/LETWqAC.jpg)
