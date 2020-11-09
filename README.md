@@ -1,6 +1,14 @@
 # nov09
 # Isla de microplásticos en océano pacífico
 
+Índice
+- [ ] 1- Isla de microplásticos en océano pacífico (que es, como se conformó, cómo afecta a la fauna marina y la pesca)
+- [ ] 2- Industria pesquera en Chile: implicancias medioambientales
+- [ ] 3- Leyes de protección del territorio marítimo de Chile
+- [ ] 4- Ley de pesca y nueva constitución para protección de la diversidad marina, regulando la contaminación y las act. de pesca ilegal
+
+-------------------------
+
 Existen 7 islas de plásticos en el mundo. Una de ellas es la que se ubica en el océano pacífico sur, entre Chile y Perú, específicamente en las cercanías de Rapan Nui. 
 Más información sobre las islas de plástico en: [Revista GQ](https://www.revistagq.com/noticias/articulo/7-islas-de-plastico-mas-grandes-del-mundo).
 
