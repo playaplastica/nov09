@@ -16,12 +16,12 @@ El 20% proviene de la industria pesquera, estos plásticos se convierten con el 
 Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las costas, generando islas de microplásticos que contaminan fauna y flora de la costa.
 
 
-[Basura Marina en Isla de Pascua](https://es.mongabay.com/2020/02/basura-marina-en-isla-de-pascua-chile/)
+[**Basura Marina en Isla de Pascua**](https://es.mongabay.com/2020/02/basura-marina-en-isla-de-pascua-chile/)
   - "La gran mayoría de los residuos que son reconocibles provienen de la pesca industrial"
   - La contaminación plástica viene la mayoría desde Chile (entre la Región de Antofagasta y la ciudad de Concepción) y de Perú.
   
   
-[La amenaza plástica en Chile](https://es.mongabay.com/2018/08/oceano-en-chile-sobreexplotacion/)
+[**La amenaza plástica en Chile**](https://es.mongabay.com/2018/08/oceano-en-chile-sobreexplotacion/)
   - Martin Thiel: “La Corriente de Humbodt, que va de sur a norte, dobla hacia el oeste provocando una gran corriente circular, contra el sentido del reloj, que gira al alrededor de todo el Pacífico Sur”. En este gran giro, la basura arrojada, desde la costa chilena, termina concentrada en una enorme extensión de 2,5 millones de km2, muy cerca de la Isla de Pascua.
 
 - [ ] 2- Industria pesquera en Chile
@@ -32,7 +32,7 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
           
 **Industria pesquera**
 
-[Contaminación de la pesca](https://avanzapesquero.lamula.pe/2018/04/24/como-la-basura-marina-afecta-a-la-pesca-y-al-ecosistema/avanzapesquero/)
+[**Contaminación de la pesca**](https://avanzapesquero.lamula.pe/2018/04/24/como-la-basura-marina-afecta-a-la-pesca-y-al-ecosistema/avanzapesquero/)
 "En la pesca artesanal, los impactos ambientales comienzan cuando se recogen las redes y se almacenan las enormes cantidades de pescados en alta mar, por la acumulación de residuos orgánicos en el agua de las bodegas de las naves. Si no se hace un adecuado traspaso de la pesca desde los barcos hasta la industria en tierra, el mar experimenta contaminación por materia orgánica. En este caso, los riles que depositan al mar las lanchas de pesca artesanal están constituidos por hidrocarburos, aceites, aguas de sentina, partículas de grasas, carne y sangre, razón por la que es importante realizar un tratamiento de las aguas que se vierten al mar". [Cita de Ecoronel](http://www.ecoronel.cl/atlas-ambiental-de-coronel/medio-humano/contaminacion-y-peligros-de-origen-humano/la-pesqueria/)
 
 - [ ] 3- Protección de los organismos marítimo de Chile y su efecto en los chilenos.
