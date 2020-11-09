@@ -112,3 +112,5 @@ Existe una iniciativa de parte del gobierno que todavía no ha sido aprobada de 
 ![alt text](https://imgs.mongabay.com/wp-content/uploads/sites/25/2018/08/11013950/fmars-05-00238-g002-768x512.jpg)
 > *Mapa densidad de los microplásticos, como base para hacer una ilustración*
 
+![alt text](blob:https://imgur.com/f08889e6-d4a7-4083-a4f1-4c26dbfc54e1)
+
