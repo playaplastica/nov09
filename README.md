@@ -1,7 +1,7 @@
 # Isla de microplásticos en océano pacífico: 
 ## Industria pesquera y territorio marítimo 
 
-**Estructura**
+### **Estructura**
 
 1. Isla de microplásticos en océano pacífico 
 
@@ -22,7 +22,7 @@
          - Regular pesca ilegal
 
 
-###**Información y Estructura**
+### **Información y Estructura**
 
 - [ ] 1- Isla de microplásticos en océano pacífico 
 
