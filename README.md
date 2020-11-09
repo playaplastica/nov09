@@ -78,6 +78,8 @@ Los desechos son absorbidos por la fauna marina y pueden llegar a los humanos a 
 - Chile tiene un 40% del área marina con protección, pero sólo un 3% de ésta corresponde a la franja de Humboldt, la que es más rica en biodiversidad y a su vez la que más  conflictos económicos genera. [Declaraciones de conservación](https://es.mongabay.com/2018/08/oceano-en-chile-sobreexplotacion/)
 
 **Protección de la diversidad marina**
+
+
 Existe una iniciativa de parte del gobierno que todavía no ha sido aprobada de una estrategia o ["Plan de Acción para la Conservación Marina y de Islas Oceánicas".](https://biodiversidad.mma.gob.cl/pda-conservacion-marina-islas-oceanicas/)
 ## Boceto de la infografía
          
