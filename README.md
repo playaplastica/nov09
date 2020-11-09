@@ -8,7 +8,7 @@ Estructura
           - Qué es, como se conformó
 Existen 7 islas de plásticos en el mundo, generadas por las corrientes marítimas. Una de ellas es la que se ubica en el océano pacífico sur, entre Chile y Perú, específicamente en las cercanías de Rapa Nui.
 Los plásticos constituyen entre el 60 y 80% de la basura del fondo marino: La mayor parte del plástico del océano proviene de embalaje de productos, una categoría que incluye botellas plásticas, bolsas de compras, tapas de botellas, contenedores de comida, bombillas, colillas de cigarro y envoltorios.  [Estudio: Un Mar de Microplásticos](http://fit.uss.cl/content/uploads/2019/05/Un-Mar-de-Micro-Plasticos.pdf) 
-El 20% proviene de la industria pesquera 
+El 20% proviene de la industria pesquera, estos plásticos se convierten con el paso del tiempo, el oleaje y la exposición del sol en microplásticos, que se han convertido parte ya de la alimentación de los organismos marinos.
 Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las costas, generando islas de microplásticos que contaminan fauna y flora de la costa.
 
 - [ ] 2- Industria pesquera en Chile
@@ -28,6 +28,10 @@ Los desechos son absorbidos por la fauna marina y pueden llegar a los humanos a 
          - Protección de la diversidad marina
          - Regular contaminación generada por la industria pesquera
          - Regular pesca ilegal
+**Legislaciones en ley de pesca**
+- Ver [BCN: Ley Chile](https://www.bcn.cl/leychile/)
+- Ley de bases generales del Medio Ambiente: [Ley 19300](https://www.bcn.cl/leychile/navegar?idNorma=30667)
+- 2010: Se crea el ministerio del Medio Ambiente: [Ley 20417](https://www.bcn.cl/leychile/navegar?idNorma=1010459)
 
 ## Boceto de la infografía
          
@@ -89,9 +93,5 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
 - [Efecto del microplástico en la salud de las personas](http://fit.uss.cl/content/uploads/2019/05/Un-Mar-de-Micro-Plasticos.pdf)
  - Seres humanos ingerimos microplásticos que vienen desde especies marina, del agua o de la sal.
  - Efectos de estos en la salud van desde el sistema inmune y problemas asociados con el desarrollo durante la pubertad; la salud reproductiva tanto femenina como masculina y la salud respiratoria. 
-### **Legislaciones en ley de pesca**
-- Ver [BCN: Ley Chile](https://www.bcn.cl/leychile/)
-- Ley de bases generales del Medio Ambiente: [Ley 19300](https://www.bcn.cl/leychile/navegar?idNorma=30667)
-- 2010: Se crea el ministerio del Medio Ambiente: [Ley 20417](https://www.bcn.cl/leychile/navegar?idNorma=1010459)
 
 
