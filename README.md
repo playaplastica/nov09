@@ -22,7 +22,7 @@
          - Regular pesca ilegal
 
 
-**Información y Estructura**
+###**Información y Estructura**
 
 - [ ] 1- Isla de microplásticos en océano pacífico 
 
