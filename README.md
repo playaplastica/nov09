@@ -32,6 +32,7 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
 **Cómo se ven afectados los chilenos ante el consumo de peces y microplástico**
 Los desechos son absorbidos por la fauna marina y pueden llegar a los humanos a través de la cadena alimentaria. Se han encontrado microplásticos en las heces humanas, lo que era cosa de tiempo. El problema, según el biólogo Marcelo González, no es el ingerir microplásticos, es la modificación que pueden generar en las personas. "Los plásticos no son puros. Se les agregan algunos aditivos, que se denominan plastificantes, como el diftalato y el bifenol. En un mamífero, estos compuestos pueden tener efectos sobre la regulación endocrina y afectar la actividad reproductiva", dice Gonzáles.
 "Todos los moluscos chilenos tienen de dos a seis microparticulas de plásticos" [Estudio detecta presencia de microplásticos en marisco chileno de consumo masivo](https://www.terram.cl/2018/06/estudio-detecta-presencia-de-microplasticos-en-marisco-chileno-de-consumo-masivo/)
+
 **Especies que se ven afectadas por la contaminación marítima**
 [Colegio Veterinario: tipos de organismos que se ven afectados por el plástico](https://www.colegioveterinario.cl/noticias/ver.php?id=1230)
 - Tortugas marinas: ingestión causa principalmente obstrucción intestinal.
