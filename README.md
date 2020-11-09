@@ -36,23 +36,29 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
 - [Chill waters, arid land: climate change arrives on Easter Island](https://www.reuters.com/article/idUSKCN1R812M)
   - Los turistas a pesar de generar ingresos a Rapa Nui también han causado un montón de contaminación, de modo que se tengan que buscar formas de regular cuanto tiempo se pueden quedar, para proteger el medio ambiente y los sitios arqueológicos.
   - La corriente del Pacífico Sur: corriente en donde se llevan las islas de basura microplástica, son dificiles de entender ya que no son visibles como islas en sí, son microplásticos que se los lleva la corriente y genera estas "islas" de basura.
-
-**Fauna y flora que se puede encontrar en esa zona**
-  - *Conservación de la fauna marina:* Parque Marino Motu Motiro Hiv y el Área Marina Costera Protegida De Múltiples Usos Rapa Nui: viven 27 especies incluidas en la Lista Roja de la Unión Internacional para la Conservación de la Naturaleza.
-  - 10 de estas 27 especies se encuentran en peligro de extinción o en situación crítica.
-
-**Contaminación en el mar** 
+  **Contaminación en el mar** 
 - [El plástico en el mar](https://revistamarina.cl/revistas/2018/3/gaimonea.pdf)
   - Los plásticos constituyen entre el 60% y el 80% del total de basura que hay en el mar
   - La situación en el océano Pacífico, La Comisión Permanente del Pacífico Sur (CPPS), que agrupa a Colombia, Ecuador, Perú y Chile, es una organización que atiende la problemática de la integración de las políticas marítimas
+
+# 2
+[Contaminación de la pesca](https://avanzapesquero.lamula.pe/2018/04/24/como-la-basura-marina-afecta-a-la-pesca-y-al-ecosistema/avanzapesquero/)
+
+
+# 3
+**Fauna y flora que se puede encontrar en esa zona**
+  - *Conservación de la fauna marina:* Parque Marino Motu Motiro Hiv y el Área Marina Costera Protegida De Múltiples Usos Rapa Nui: viven 27 especies incluidas en la Lista Roja de la Unión Internacional para la Conservación de la Naturaleza.
+  - 10 de estas 27 especies se encuentran en peligro de extinción o en situación crítica.
+  - *Leyes de conservación de la fauna marina*
+1. Chile tiene un 40% del área marina con protección, pero sólo un 3% de ésta corresponde a la franja de Humboldt, la que es más rica en biodiversidad y a su vez la que más  conflictos económicos genera. [Declaraciones de conservación](https://es.mongabay.com/2018/08/oceano-en-chile-sobreexplotacion/)
+
+
 
 ### **→ Sobre legislaciones de la regulación del plástico**
 - Ver [BCN: Ley Chile](https://www.bcn.cl/leychile/)
 - Ley del uso de bolsas plásticas: [Ley 21100](https://www.bcn.cl/leychile/navegar?idNorma=1121380)
 - Ley de bases generales del Medio Ambiente: [Ley 19300](https://www.bcn.cl/leychile/navegar?idNorma=30667)
 - 2010: Se crea el ministerio del Medio Ambiente: [Ley 20417](https://www.bcn.cl/leychile/navegar?idNorma=1010459)
-- *Leyes de conservación de la fauna marina*
-1. Chile tiene un 40% del área marina con protección, pero sólo un 3% de ésta corresponde a la franja de Humboldt, la que es más rica en biodiversidad y a su vez la que más  conflictos económicos genera. [Declaraciones de conservación](https://es.mongabay.com/2018/08/oceano-en-chile-sobreexplotacion/)
+
 
 [Contaminación de la pesca](https://avanzapesquero.lamula.pe/2018/04/24/como-la-basura-marina-afecta-a-la-pesca-y-al-ecosistema/avanzapesquero/)
-
