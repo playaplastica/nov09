@@ -32,6 +32,9 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
 **Cómo se ven afectados los chilenos ante el consumo de peces y microplástico**
 Los desechos son absorbidos por la fauna marina y pueden llegar a los humanos a través de la cadena alimentaria. Se han encontrado microplásticos en las heces humanas, lo que era cosa de tiempo. El problema, según el biólogo Marcelo González, no es el ingerir microplásticos, es la modificación que pueden generar en las personas. "Los plásticos no son puros. Se les agregan algunos aditivos, que se denominan plastificantes, como el diftalato y el bifenol. En un mamífero, estos compuestos pueden tener efectos sobre la regulación endocrina y afectar la actividad reproductiva", dice Gonzáles.
 "Todos los moluscos chilenos tienen de dos a seis microparticulas de plásticos" [Estudio detecta presencia de microplásticos en marisco chileno de consumo masivo](https://www.terram.cl/2018/06/estudio-detecta-presencia-de-microplasticos-en-marisco-chileno-de-consumo-masivo/)
+[Efecto del microplástico en la salud de las personas](http://fit.uss.cl/content/uploads/2019/05/Un-Mar-de-Micro-Plasticos.pdf)
+ - Seres humanos ingerimos microplásticos que vienen desde especies marina, del agua o de la sal.
+ - Efectos de estos en la salud van desde el sistema inmune y problemas asociados con el desarrollo durante la pubertad; la salud reproductiva tanto femenina como masculina y la salud respiratoria. 
 
 **Especies que se ven afectadas por la contaminación marítima**
 [Colegio Veterinario: tipos de organismos que se ven afectados por el plástico](https://www.colegioveterinario.cl/noticias/ver.php?id=1230)
@@ -51,6 +54,7 @@ Los desechos son absorbidos por la fauna marina y pueden llegar a los humanos a 
 - Ver [BCN: Ley Chile](https://www.bcn.cl/leychile/)
 - Ley de bases generales del Medio Ambiente: [Ley 19300](https://www.bcn.cl/leychile/navegar?idNorma=30667)
 - 2010: Se crea el ministerio del Medio Ambiente: [Ley 20417](https://www.bcn.cl/leychile/navegar?idNorma=1010459)
+- Chile tiene un 40% del área marina con protección, pero sólo un 3% de ésta corresponde a la franja de Humboldt, la que es más rica en biodiversidad y a su vez la que más  conflictos económicos genera. [Declaraciones de conservación](https://es.mongabay.com/2018/08/oceano-en-chile-sobreexplotacion/)
 
 ## Boceto de la infografía
          
@@ -68,22 +72,6 @@ Los desechos son absorbidos por la fauna marina y pueden llegar a los humanos a 
 ![alt text](https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/EJBJOTJ6WNFJ3BSUQS52L2JPAE.jpg)
 > *Microplásticos de las islas*
 
-### **Isla de Microplásticos**
-- [Isla de plástico frente a las costas chilenas](http://maryciencia.org/columnas/isla-de-plastico/)
-  - Esta isla tiene 3 veces el tamaño de Chile
-  - Microplásticos: provienen de pedazos más grandes que con el tiempo, calor y agua se van fragmentando.
-  - Peces y crustáceos consumen accidentalmente estos microplásticos, el que se acumula y se traspasa a través de las redes tróficas a los animales más grandes.
-- [Basura Marina en Isla de Pascua](https://es.mongabay.com/2020/02/basura-marina-en-isla-de-pascua-chile/)
-  - "La gran mayoría de los residuos que son reconocibles provienen de la pesca industrial"
-  - La contaminación plástica viene la mayoría desde Chile (entre la Región de Antofagasta y la ciudad de Concepción) y de Perú.
-- [La amenaza plástica en Chile](https://es.mongabay.com/2018/08/oceano-en-chile-sobreexplotacion/)
-  - Martin Thiel: “La Corriente de Humbodt, que va de sur a norte, dobla hacia el oeste provocando una gran corriente circular, contra el sentido del reloj, que gira al alrededor de todo el Pacífico Sur”. En este gran giro, la basura arrojada, desde la costa chilena, termina concentrada en una enorme extensión de 2,5 millones de km2, muy cerca de la Isla de Pascua.
-  - La basura que flota en el mar se vuelve frágil y se fragmenta en microplásticos, la cual tiene una alta concentración cercana a Isla de Pascua. Esto genera un gran impacto en aves y peces.  
-  
-
-### **Industria pesquera**
-[Contaminación de la pesca](https://avanzapesquero.lamula.pe/2018/04/24/como-la-basura-marina-afecta-a-la-pesca-y-al-ecosistema/avanzapesquero/)
-
 ### **Especies del territorio marítimo** 
 -[Martin Thiel: Plásticos](https://es.mongabay.com/2018/06/martin-thiel-plasticos/) 
   - Peces y aves confunden el plástico con su alimento natural y lo ingieren, con contaminantes que vienen de los plásticos y pueden ser absorbidos por la sangre y los tejidos de estos organismos. 
@@ -94,13 +82,5 @@ Los desechos son absorbidos por la fauna marina y pueden llegar a los humanos a 
   - *Conservación de la fauna marina:* Parque Marino Motu Motiro Hiv y el Área Marina Costera Protegida De Múltiples Usos Rapa Nui: viven 27 especies incluidas en la Lista Roja de la Unión Internacional para la Conservación de la Naturaleza.
   - 10 de estas 27 especies se encuentran en peligro de extinción o en situación crítica.
   - *Leyes de conservación de la fauna marina*
-  
--Chile tiene un 40% del área marina con protección, pero sólo un 3% de ésta corresponde a la franja de Humboldt, la que es más rica en biodiversidad y a su vez la que más  conflictos económicos genera. [Declaraciones de conservación](https://es.mongabay.com/2018/08/oceano-en-chile-sobreexplotacion/)
-
-### **Consumo de especies marítimas en Chile** 
-- Qué especies se consumen generalmente 
-- [Efecto del microplástico en la salud de las personas](http://fit.uss.cl/content/uploads/2019/05/Un-Mar-de-Micro-Plasticos.pdf)
- - Seres humanos ingerimos microplásticos que vienen desde especies marina, del agua o de la sal.
- - Efectos de estos en la salud van desde el sistema inmune y problemas asociados con el desarrollo durante la pubertad; la salud reproductiva tanto femenina como masculina y la salud respiratoria. 
 
 
