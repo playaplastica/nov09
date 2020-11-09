@@ -8,10 +8,10 @@
 
 ![alt text](https://i.imgur.com/LETWqAC.jpg)
 ![alt text](https://i.imgur.com/nXLsQDs.jpg)
-> *AAAAAA*
+> *Boceto de la infografía*
 
 ![alt text](https://imgs.mongabay.com/wp-content/uploads/sites/25/2018/08/11013950/fmars-05-00238-g002-768x512.jpg)
-> *Mapa densidad de los microplásticos*
+> *Mapa densidad de los microplásticos, como base para hacer una ilustración*
 -------------------------
 
 # 1
@@ -26,6 +26,7 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
 > *Isla de plásticos visible*
 
 ### **→ Datos**
+- 20% de la contaminación de microplásticos pertenecen a la industria pesquera 
 ![alt text](https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/EJBJOTJ6WNFJ3BSUQS52L2JPAE.jpg)
 > *Microplásticos de las islas*
 
@@ -37,9 +38,7 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
 - [Basura Marina en Isla de Pascua](https://es.mongabay.com/2020/02/basura-marina-en-isla-de-pascua-chile/)
   - "La gran mayoría de los residuos que son reconocibles provienen de la pesca industrial"
   - La contaminación plástica viene la mayoría desde Chile (entre la Región de Antofagasta y la ciudad de Concepción) y de Perú.
-- [Chill waters, arid land: climate change arrives on Easter Island](https://www.reuters.com/article/idUSKCN1R812M)
-  - Los turistas a pesar de generar ingresos a Rapa Nui también han causado un montón de contaminación, de modo que se tengan que buscar formas de regular cuanto tiempo se pueden quedar, para proteger el medio ambiente y los sitios arqueológicos.
-  - La corriente del Pacífico Sur: corriente en donde se llevan las islas de basura microplástica, son dificiles de entender ya que no son visibles como islas en sí, son microplásticos que se los lleva la corriente y genera estas "islas" de basura.
+
   **Contaminación en el mar** 
 - [El plástico en el mar](https://revistamarina.cl/revistas/2018/3/gaimonea.pdf)
   - Los plásticos constituyen entre el 60% y el 80% del total de basura que hay en el mar
@@ -54,15 +53,14 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
   - *Conservación de la fauna marina:* Parque Marino Motu Motiro Hiv y el Área Marina Costera Protegida De Múltiples Usos Rapa Nui: viven 27 especies incluidas en la Lista Roja de la Unión Internacional para la Conservación de la Naturaleza.
   - 10 de estas 27 especies se encuentran en peligro de extinción o en situación crítica.
   - *Leyes de conservación de la fauna marina*
-1. Chile tiene un 40% del área marina con protección, pero sólo un 3% de ésta corresponde a la franja de Humboldt, la que es más rica en biodiversidad y a su vez la que más  conflictos económicos genera. [Declaraciones de conservación](https://es.mongabay.com/2018/08/oceano-en-chile-sobreexplotacion/)
+  - Chile tiene un 40% del área marina con protección, pero sólo un 3% de ésta corresponde a la franja de Humboldt, la que es más rica en biodiversidad y a su vez la que más  conflictos económicos genera. [Declaraciones de conservación](https://es.mongabay.com/2018/08/oceano-en-chile-sobreexplotacion/)
 
+**Consumo de especies marítimas en Chile** 
+- Qué especies se consumen generalmente 
 
-
-### **→ Sobre legislaciones de la regulación del plástico**
+### **→ Legislaciones en ley de pesca**
 - Ver [BCN: Ley Chile](https://www.bcn.cl/leychile/)
-- Ley del uso de bolsas plásticas: [Ley 21100](https://www.bcn.cl/leychile/navegar?idNorma=1121380)
 - Ley de bases generales del Medio Ambiente: [Ley 19300](https://www.bcn.cl/leychile/navegar?idNorma=30667)
 - 2010: Se crea el ministerio del Medio Ambiente: [Ley 20417](https://www.bcn.cl/leychile/navegar?idNorma=1010459)
 
 
-[Contaminación de la pesca](https://avanzapesquero.lamula.pe/2018/04/24/como-la-basura-marina-afecta-a-la-pesca-y-al-ecosistema/avanzapesquero/)
