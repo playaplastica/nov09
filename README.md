@@ -65,23 +65,4 @@ Los desechos son absorbidos por la fauna marina y pueden llegar a los humanos a 
 
 ![alt text](https://imgs.mongabay.com/wp-content/uploads/sites/25/2018/08/11013950/fmars-05-00238-g002-768x512.jpg)
 > *Mapa densidad de los microplásticos, como base para hacer una ilustración*
--------------------------
-
-![alt text](https://www.delfuegonoticias.com.ar/public/images/noticias/22677-la-isla-de-basura-ya-es-mas-grande-que-toda-la-patagonia.jpg)
-> *Isla de plásticos visible*
-
-![alt text](https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/EJBJOTJ6WNFJ3BSUQS52L2JPAE.jpg)
-> *Microplásticos de las islas*
-
-### **Especies del territorio marítimo** 
--[Martin Thiel: Plásticos](https://es.mongabay.com/2018/06/martin-thiel-plasticos/) 
-  - Peces y aves confunden el plástico con su alimento natural y lo ingieren, con contaminantes que vienen de los plásticos y pueden ser absorbidos por la sangre y los tejidos de estos organismos. 
-  
--Cómo les afecta la contaminación de microplásticos 
-
--Fauna y flora que se encuentra en la zona con mayor contaminación: 
-  - *Conservación de la fauna marina:* Parque Marino Motu Motiro Hiv y el Área Marina Costera Protegida De Múltiples Usos Rapa Nui: viven 27 especies incluidas en la Lista Roja de la Unión Internacional para la Conservación de la Naturaleza.
-  - 10 de estas 27 especies se encuentran en peligro de extinción o en situación crítica.
-  - *Leyes de conservación de la fauna marina*
-
 
