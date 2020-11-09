@@ -1,7 +1,8 @@
 # Isla de microplásticos en océano pacífico: 
 ## Industria pesquera y territorio marítimo 
 
-Índice
+Estructura 
+
 - [ ] 1- Isla de microplásticos en océano pacífico (que es, como se conformó, cómo afecta a la fauna marina y la pesca)
 - [ ] 2- Industria pesquera en Chile: implicancias medioambientales, contaminación
 - [ ] 3- Leyes de protección del territorio marítimo de Chile
