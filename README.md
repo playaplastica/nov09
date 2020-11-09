@@ -23,16 +23,18 @@ Estructura
          - Protección de la diversidad marina
          - Regular contaminación generada por la industria pesquera
          - Regular pesca ilegal
+
+## Boceto de la infografía
          
 ![alt text](https://i.imgur.com/LETWqAC.jpg)
 ![alt text](https://i.imgur.com/nXLsQDs.jpg)
-> *Boceto de la infografía*
+> *Boceto*
 
 ![alt text](https://imgs.mongabay.com/wp-content/uploads/sites/25/2018/08/11013950/fmars-05-00238-g002-768x512.jpg)
 > *Mapa densidad de los microplásticos, como base para hacer una ilustración*
 -------------------------
+## Información 
 
-# 1
 Existen 7 islas de plásticos en el mundo. Una de ellas es la que se ubica en el océano pacífico sur, entre Chile y Perú, específicamente en las cercanías de Rapan Nui. 
 Más información sobre las islas de plástico en: [Revista GQ](https://www.revistagq.com/noticias/articulo/7-islas-de-plastico-mas-grandes-del-mundo).
 
