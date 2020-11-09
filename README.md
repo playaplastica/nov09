@@ -31,6 +31,7 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
           
           
 **Industria pesquera**
+
 [Contaminación de la pesca](https://avanzapesquero.lamula.pe/2018/04/24/como-la-basura-marina-afecta-a-la-pesca-y-al-ecosistema/avanzapesquero/)
 "En la pesca artesanal, los impactos ambientales comienzan cuando se recogen las redes y se almacenan las enormes cantidades de pescados en alta mar, por la acumulación de residuos orgánicos en el agua de las bodegas de las naves. Si no se hace un adecuado traspaso de la pesca desde los barcos hasta la industria en tierra, el mar experimenta contaminación por materia orgánica. En este caso, los riles que depositan al mar las lanchas de pesca artesanal están constituidos por hidrocarburos, aceites, aguas de sentina, partículas de grasas, carne y sangre, razón por la que es importante realizar un tratamiento de las aguas que se vierten al mar". [Cita de Ecoronel](http://www.ecoronel.cl/atlas-ambiental-de-coronel/medio-humano/contaminacion-y-peligros-de-origen-humano/la-pesqueria/)
 
