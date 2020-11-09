@@ -32,7 +32,7 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
           
 **Industria pesquera**
 [Contaminación de la pesca](https://avanzapesquero.lamula.pe/2018/04/24/como-la-basura-marina-afecta-a-la-pesca-y-al-ecosistema/avanzapesquero/)
-"En la pesca artesanal, los impactos ambientales comienzan cuando se recogen las redes y se almacenan las enormes cantidades de pescados en alta mar, por la acumulación de residuos orgánicos en el agua de las bodegas de las naves. Si no se hace un adecuado traspaso de la pesca desde los barcos hasta la industria en tierra, el mar experimenta contaminación por materia orgánica. En este caso, los riles que depositan al mar las lanchas de pesca artesanal están constituidos por hidrocarburos, aceites, aguas de sentina, partículas de grasas, carne y sangre, razón por la que es importante realizar un tratamiento de las aguas que se vierten al mar".[Cita de Ecoronel](http://www.ecoronel.cl/atlas-ambiental-de-coronel/medio-humano/contaminacion-y-peligros-de-origen-humano/la-pesqueria/)
+"En la pesca artesanal, los impactos ambientales comienzan cuando se recogen las redes y se almacenan las enormes cantidades de pescados en alta mar, por la acumulación de residuos orgánicos en el agua de las bodegas de las naves. Si no se hace un adecuado traspaso de la pesca desde los barcos hasta la industria en tierra, el mar experimenta contaminación por materia orgánica. En este caso, los riles que depositan al mar las lanchas de pesca artesanal están constituidos por hidrocarburos, aceites, aguas de sentina, partículas de grasas, carne y sangre, razón por la que es importante realizar un tratamiento de las aguas que se vierten al mar". [Cita de Ecoronel](http://www.ecoronel.cl/atlas-ambiental-de-coronel/medio-humano/contaminacion-y-peligros-de-origen-humano/la-pesqueria/)
 
 - [ ] 3- Protección de los organismos marítimo de Chile y su efecto en los chilenos.
 
@@ -43,7 +43,7 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
           
 **Cómo se ven afectados los chilenos ante el consumo de peces y microplástico**
 Los desechos son absorbidos por la fauna marina y pueden llegar a los humanos a través de la cadena alimentaria. Se han encontrado microplásticos en las heces humanas, lo que era cosa de tiempo. El problema, según el biólogo Marcelo González, no es el ingerir microplásticos, es la modificación que pueden generar en las personas. "Los plásticos no son puros. Se les agregan algunos aditivos, que se denominan plastificantes, como el diftalato y el bifenol. En un mamífero, estos compuestos pueden tener efectos sobre la regulación endocrina y afectar la actividad reproductiva", dice Gonzáles.
-"Todos los moluscos chilenos tienen de dos a seis microparticulas de plásticos" [Estudio detecta presencia de microplásticos en marisco chileno de consumo masivo](https://www.terram.cl/2018/06/estudio-detecta-presencia-de-microplasticos-en-marisco-chileno-de-consumo-masivo/)
+"Todos los moluscos chilenos tienen de dos a seis microparticulas de plásticos". [Estudio detecta presencia de microplásticos en marisco chileno de consumo masivo](https://www.terram.cl/2018/06/estudio-detecta-presencia-de-microplasticos-en-marisco-chileno-de-consumo-masivo/)
 
 
 [Efecto del microplástico en la salud de las personas](http://fit.uss.cl/content/uploads/2019/05/Un-Mar-de-Micro-Plasticos.pdf)
