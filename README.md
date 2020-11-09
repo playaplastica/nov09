@@ -1,4 +1,5 @@
-# Isla de microplásticos en océano pacífico: Industria pesquera y territorio marítimo 
+# Isla de microplásticos en océano pacífico: 
+## Industria pesquera y territorio marítimo 
 
 Índice
 - [ ] 1- Isla de microplásticos en océano pacífico (que es, como se conformó, cómo afecta a la fauna marina y la pesca)
