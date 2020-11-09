@@ -49,7 +49,7 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
 ![alt text](https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/EJBJOTJ6WNFJ3BSUQS52L2JPAE.jpg)
 > *Microplásticos de las islas*
 
-**Isla de Microplásticos**
+### **Isla de Microplásticos**
 - [Isla de plástico frente a las costas chilenas](http://maryciencia.org/columnas/isla-de-plastico/)
   - Esta isla tiene 3 veces el tamaño de Chile
   - Microplásticos: provienen de pedazos más grandes que con el tiempo, calor y agua se van fragmentando.
@@ -58,15 +58,15 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
   - "La gran mayoría de los residuos que son reconocibles provienen de la pesca industrial"
   - La contaminación plástica viene la mayoría desde Chile (entre la Región de Antofagasta y la ciudad de Concepción) y de Perú.
 
-  **Contaminación en el mar** 
+### **Contaminación en el mar** 
 - [El plástico en el mar](https://revistamarina.cl/revistas/2018/3/gaimonea.pdf)
   - Los plásticos constituyen entre el 60% y el 80% del total de basura que hay en el mar
   - La situación en el océano Pacífico, La Comisión Permanente del Pacífico Sur (CPPS), que agrupa a Colombia, Ecuador, Perú y Chile, es una organización que atiende la problemática de la integración de las políticas marítimas
 
- **Industria pesquera**
+### **Industria pesquera**
 [Contaminación de la pesca](https://avanzapesquero.lamula.pe/2018/04/24/como-la-basura-marina-afecta-a-la-pesca-y-al-ecosistema/avanzapesquero/)
 
-**Especies del territorio marítimo** 
+### **Especies del territorio marítimo** 
 - Cómo les afecta la contaminación de microplásticos 
 - Fauna y flora que se encuentra en la zona con mayor contaminación: 
   - *Conservación de la fauna marina:* Parque Marino Motu Motiro Hiv y el Área Marina Costera Protegida De Múltiples Usos Rapa Nui: viven 27 especies incluidas en la Lista Roja de la Unión Internacional para la Conservación de la Naturaleza.
@@ -74,10 +74,10 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
   - *Leyes de conservación de la fauna marina*
 - Chile tiene un 40% del área marina con protección, pero sólo un 3% de ésta corresponde a la franja de Humboldt, la que es más rica en biodiversidad y a su vez la que más  conflictos económicos genera. [Declaraciones de conservación](https://es.mongabay.com/2018/08/oceano-en-chile-sobreexplotacion/)
 
-**Consumo de especies marítimas en Chile** 
+### **Consumo de especies marítimas en Chile** 
 - Qué especies se consumen generalmente 
 
-**Legislaciones en ley de pesca**
+### **Legislaciones en ley de pesca**
 - Ver [BCN: Ley Chile](https://www.bcn.cl/leychile/)
 - Ley de bases generales del Medio Ambiente: [Ley 19300](https://www.bcn.cl/leychile/navegar?idNorma=30667)
 - 2010: Se crea el ministerio del Medio Ambiente: [Ley 20417](https://www.bcn.cl/leychile/navegar?idNorma=1010459)
