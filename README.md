@@ -70,14 +70,14 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
 -[Martin Thiel: Plásticos](https://es.mongabay.com/2018/06/martin-thiel-plasticos/) 
   - Peces y aves confunden el plástico con su alimento natural y lo ingieren, con contaminantes que vienen de los plásticos y pueden ser absorbidos por la sangre y los tejidos de estos organismos. 
   
-- Cómo les afecta la contaminación de microplásticos 
+-Cómo les afecta la contaminación de microplásticos 
 
-- Fauna y flora que se encuentra en la zona con mayor contaminación: 
+-Fauna y flora que se encuentra en la zona con mayor contaminación: 
   - *Conservación de la fauna marina:* Parque Marino Motu Motiro Hiv y el Área Marina Costera Protegida De Múltiples Usos Rapa Nui: viven 27 especies incluidas en la Lista Roja de la Unión Internacional para la Conservación de la Naturaleza.
   - 10 de estas 27 especies se encuentran en peligro de extinción o en situación crítica.
   - *Leyes de conservación de la fauna marina*
   
-- Chile tiene un 40% del área marina con protección, pero sólo un 3% de ésta corresponde a la franja de Humboldt, la que es más rica en biodiversidad y a su vez la que más  conflictos económicos genera. [Declaraciones de conservación](https://es.mongabay.com/2018/08/oceano-en-chile-sobreexplotacion/)
+-Chile tiene un 40% del área marina con protección, pero sólo un 3% de ésta corresponde a la franja de Humboldt, la que es más rica en biodiversidad y a su vez la que más  conflictos económicos genera. [Declaraciones de conservación](https://es.mongabay.com/2018/08/oceano-en-chile-sobreexplotacion/)
 
 ### **Consumo de especies marítimas en Chile** 
 - Qué especies se consumen generalmente 
