@@ -24,7 +24,7 @@ Residuos plásticos se ven llevados por la Corriente del Pacífico Sur hacia las
 **Industria pesquera**
 [Contaminación de la pesca](https://avanzapesquero.lamula.pe/2018/04/24/como-la-basura-marina-afecta-a-la-pesca-y-al-ecosistema/avanzapesquero/)
 
-- [ ] 3- Protección del territorio marítimo de Chile
+- [ ] 3- Protección de los organismos marítimo de Chile y su efecto en los chilenos.
 
           - Cómo se ven afectados los chilenos ante el consumo de peces y microplástico 
           - Cómo se ven afectadas 
